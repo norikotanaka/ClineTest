@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+#video-container {
+    width: 640px;
+    margin: 20px auto;
+}
+
+#commentary-container {
+    width: 640px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
